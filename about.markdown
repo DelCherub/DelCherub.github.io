@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-CV HERE: <a href = "https://docs.google.com/document/d/1KOwjW-l4l9JRv9xnM8Le-wi27mvVDTj4VRkFWfiETAg/edit?usp=sharing">https://docs.google.com/document/d/1KOwjW-l4l9JRv9xnM8Le-wi27mvVDTj4VRkFWfiETAg/edit?usp=sharing</a>
+CV HERE: <a href = "https://docs.google.com/document/d/1_l-oNr_UhiPHLM_hpxKWqDR4yp0PB4On/edit?usp=sharing&ouid=105088562683269888122&rtpof=true&sd=true">Matthew Law CV</a>
 
 Hi, I'm HeavyMetalGameDev, or Matthew, an aspiring games programmer looking to get into the industry. I graduated from the MComp Computer Science with Games Engineering course at Newcastle University with a first class degree, and have been looking to break into the profession since.
 My programming interests vary: I typically find any aspect of games programming interesting, especially more technical tasks.
