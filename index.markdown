@@ -7,10 +7,7 @@ layout: home
 
 <h1>I'm Matthew, welcome to my portfolio website.</h1>
 
-I am a graduate games programmer looking to get into the industry and learn from a talented development team. To see my projects, go to my Portfolio page.
+I am a graduate programmer looking for a new position and to learn from a talented development team. To see my projects, go to my Portfolio page.
 
-CV HERE: <a href = "https://docs.google.com/document/d/1KOwjW-l4l9JRv9xnM8Le-wi27mvVDTj4VRkFWfiETAg/edit?usp=sharing">https://docs.google.com/document/d/1KOwjW-l4l9JRv9xnM8Le-wi27mvVDTj4VRkFWfiETAg/edit?usp=sharing</a>
-
-<h1>Most Recent</h1>
-<a href = "/CSC8508">![image](\assets\hellrunners.png)</a>
+CV HERE: <a href = "https://docs.google.com/document/d/1_l-oNr_UhiPHLM_hpxKWqDR4yp0PB4On/edit?usp=sharing&ouid=105088562683269888122&rtpof=true&sd=true">Matthew Law CV</a>
 
